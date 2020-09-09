@@ -56,10 +56,10 @@ The final application performs as expected and meets all of the requirements giv
 ### Images
 
 - Single Display Menu<br>
-![Single Display Menu](assets/images/displaymenu.jpg) 
+![Single Display Menu](Assets/images/displaymenu.jpg) 
 
 - View Departments, Roles, and Employees + Department Budget<br>
-![All Views](assets/images/view.jpg) 
+![All Views](Assets/images/view.jpg) 
 
 - Employees by Manager<br>
-![Employees by Manager](assets/images/bymanager.jpg) 
+![Employees by Manager](Assets/images/bymanager.jpg) 
